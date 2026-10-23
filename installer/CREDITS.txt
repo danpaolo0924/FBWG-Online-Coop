@@ -1,0 +1,27 @@
+FIREBOY & WATERGIRL: THE FOREST TEMPLE ONLINE CO-OP - CREDITS
+==============================================================
+
+THE GAME: FIREBOY & WATERGIRL IN THE FOREST TEMPLE
+--------------------------------------------------
+Fireboy & Watergirl is created by Oslo Albet. All credit for the game, its
+levels, art, music and design goes to its creators.
+
+This is an unofficial, free fan mod. It is not made, endorsed or supported by
+the game's developers. Please don't contact them about problems with this mod.
+The mod contains no game files: the installer modifies your own copy of the
+game, so you need to own it on Steam.
+
+THE MOD
+-------
+  Online co-op mod:  Prompt|
+
+TOOLS AND SERVICES
+------------------
+  PeerJS public signalling server (0.peerjs.com) - introduces the two games
+    for join codes. https://peerjs.com
+  WebRTC (built into the game's Electron/Chromium runtime) - the direct
+    connection between the two PCs.
+  Phaser and Box2D - the engine and physics the game is built with.
+  Steam and Steamworks by Valve Corporation.
+
+Thank you to the Fireboy & Watergirl team for a classic co-op game!

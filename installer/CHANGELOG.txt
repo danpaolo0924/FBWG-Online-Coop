@@ -1,0 +1,36 @@
+FIREBOY & WATERGIRL: THE FOREST TEMPLE ONLINE CO-OP - CHANGELOG
+================================================================
+Modded by Prompt|
+
+
+v1.1
+----
+- Co-op saves: online play now has its own shared progress (unlocked levels,
+  best times, diamonds), saved after every level as the same file on both PCs.
+  The host picks or starts a save in the ONLINE panel; either player can host
+  it later. Your single-player progress is never touched and comes back when
+  you disconnect.
+- Only Player 1 (the host) picks levels now. Player 2 sees the host's level map,
+  greyed out and not clickable, including the host's progress.
+- A gold ring on Player 2's map shows which level the host is pointing at.
+- Player 2's screen follows the host: title screen, level map, and back to the
+  map after every level.
+- Very quick key taps (shorter than one frame) are no longer missed.
+- Esc always closes the ONLINE panel.
+- The in-level status bar moved to the top-left so it no longer covers the timer.
+- v1.1 can't connect to v1.0 - both players need to update.
+
+
+v1.0
+----
+First release.
+- Online co-op for all Forest Temple levels: one player is Fireboy, the other Watergirl.
+- ONLINE button in the menus: host a game and share a 5-character join code
+  (no port forwarding), or connect by Direct IP.
+- Host chooses who plays which character.
+- Either player can start a level; both games start it together.
+- Pause, restart and leave are shared, from keys or the in-level buttons.
+- Lockstep sync with a 4-frame input delay, a "Waiting for your partner" notice
+  when the connection hiccups, and a DESYNC warning if the games ever drift apart.
+- Version check on connect, so both players are on the same mod.
+- Installer with Install / Uninstall; the original game files are backed up.
